@@ -1,0 +1,57 @@
+{
+  "version": "1.0.0",
+  "configs": [
+    {
+      "id": "cfg_1763309455_",
+      "name": "weekly-report.md",
+      "original_path": "/Users/yang/.claude/commands/weekly-report.md",
+      "directory": "~/.claude/commands",
+      "category": "other",
+      "description": "",
+      "added_at": "2025-11-16T16:10:55Z",
+      "last_updated": "2025-11-16T16:10:55Z",
+      "size": 1627,
+      "hash": "cccae7c7e7c85d77652f9893ccbd860877f17e9e6fc4637bf8bacd6e0556ccf1",
+      "version": "1"
+    },
+    {
+      "id": "cfg_1763309642_",
+      "name": "test.conf",
+      "original_path": "/Users/yang/Workplace/config-manager/test-conf/test.conf",
+      "directory": "~/Workplace/config-manager/test-conf",
+      "category": "other",
+      "description": "",
+      "added_at": "2025-11-16T16:14:02Z",
+      "last_updated": "2025-11-16T16:14:02Z",
+      "size": 381,
+      "hash": "294085f8b28bd8010b18d553b820540d8c120f95f69fb79c4c527ce083959082",
+      "version": "1"
+    },
+    {
+      "id": "cfg_1763309834_",
+      "name": ".zshrc",
+      "original_path": "/Users/yang/.zshrc",
+      "directory": "~",
+      "category": "shell",
+      "description": "",
+      "added_at": "2025-11-16T16:17:14Z",
+      "last_updated": "2025-11-16T16:17:14Z",
+      "size": 9361,
+      "hash": "2eeb7cf8ecbc44eb8d5d1e99531f4639161c0721a96c4070d75a013d9a7bc7a5",
+      "version": "1"
+    }
+  ],
+  "categories": {
+    "shell": "Shell配置文件",
+    "editor": "编辑器配置",
+    "system": "系统配置",
+    "app": "应用程序配置",
+    "network": "网络配置",
+    "other": "其他配置"
+  },
+  "metadata": {
+    "created_at": "2025-11-16T15:52:24Z",
+    "last_sync": "",
+    "total_configs": 3
+  }
+}
